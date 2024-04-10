@@ -1,0 +1,21 @@
+.pizza {
+    background-color: red;
+    color: blue;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+#pizza {
+    font-weight: bold;
+    color: red;
+}
+
+.spaghetti.recipe {
+    color: darkolivegreen;
+    background-color: blueviolet;
+}
+
